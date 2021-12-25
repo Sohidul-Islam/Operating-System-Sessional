@@ -1,0 +1,15 @@
+
+Saturday (12:00 - 1:25) Theory of computing (room 318)
+
+Sunday(3:30-5:00) Computer Graphics (CSE18A) (room 316)
+Sunday(2:00-3:25) Data Comunication (CSE18A) (room 316)
+
+Monday(9am : 12pm) Computer Graphics Lab (CSE-18-A1)(Room B-601L)
+	
+Tuesday(2-5pm) Operating system Lab A1 (roomB 601L)
+
+Wednesday(2-3:30pm) Theory of Computing(CSE 18A)(50)(room 218)
+
+Wednesday(3:30pm-5pm)Computer Graphics(CSE 18A)(50)(room 119)
+
+Thursday(12:00-01:30pm) Data Communication(CSE 18A)(room 119)
